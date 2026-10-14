@@ -1,0 +1,21 @@
+﻿# Build output
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*_autogen/
+Testing/
+*.exe
+*.exe.manifest
+*.o
+*.obj
+
+# Qt Creator / IDE
+.qtc_clangd/
+.qtcreator/
+.qt/
+.cmake/
+qtcsettings.cmake
+CMakeLists.txt.user*
+*.user
